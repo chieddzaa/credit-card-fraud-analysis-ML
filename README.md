@@ -16,7 +16,7 @@ The dataset contains anonymized transaction features (V1–V28, Time, Amount) an
 - **TP (True Positives):** 295  
 - **FP (False Positives):** 9  
 - **FN (False Negatives):** 11  
-- Model showed strong precision on desktops and good performance on mobile, with ROC-AUC ≈ *[insert your score]*  
+- Model showed strong precision on desktops and good performance on mobile, with ROC-AUC ≈ *0.9474969996439769*  
 
 ## 📈 Visualizations  
 - Fraud vs. Non-Fraud distribution  
